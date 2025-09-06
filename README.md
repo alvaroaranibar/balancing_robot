@@ -82,7 +82,7 @@ The following gains were tested in different sessions:
 
 1. Clone this repository into your development environment (e.g., PlatformIO).  
 2. Install the required libraries:
-   - `XSpaceIoT`
+   - `XSpaceIoT` from TheXspaceAcademy 
    - `I2Cdev`
    - `MPU6050_6Axis_MotionApps612`
 3. Update WiFi credentials in the code:
