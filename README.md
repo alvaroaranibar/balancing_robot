@@ -46,7 +46,7 @@ The system uses the following topics:
 - **MPU6050 IMU**
 - **2 DC motors with quadrature encoders**
 - **TB6612FNG motor driver**
-- **LiPo battery** (~12 V)
+- **LiPo battery** (~3x3.3 V)
 - **WiFi connection** for MQTT broker
 
 ---
