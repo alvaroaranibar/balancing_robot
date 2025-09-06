@@ -97,7 +97,13 @@ The following gains were tested in different sessions:
 ## 📈 Main ESP32 Tasks
 
 ss_error → digital state-space servocontroller with state error feedback.
+
 genera_x_ref → Smooths position reference to avoid abrupt steps.
+
 prueba_sensores → Reads and prints sensor values.
+
 prueba_motor → Tests motor control.
+
 valida → Validates orientation and angular velocity.
+
+
